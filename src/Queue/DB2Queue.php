@@ -1,6 +1,6 @@
 <?php
 
-namespace Cooperl\DB2\Queue;
+namespace NFT\DB2\Queue;
 
 use Illuminate\Queue\DatabaseQueue;
 
